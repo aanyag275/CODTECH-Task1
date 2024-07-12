@@ -33,8 +33,8 @@ The objective of this task is to demonstrate the process of building, evaluating
 - Visualize the regression line along with the training data.
 - Plot the actual vs. predicted values for the test data to assess the model’s accuracy visually.
 ### Interpretation:
--Interpret the evaluation metrics to understand the model’s performance.
--Draw conclusions based on the visualizations.
+- Interpret the evaluation metrics to understand the model’s performance.
+- Draw conclusions based on the visualizations.
 
 ### Technologies Used
 - **Python**: The primary programming language for data analysis.
