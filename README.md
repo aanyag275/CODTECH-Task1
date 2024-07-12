@@ -1,13 +1,8 @@
 **Name:** AANYA GARG 
-
 **Company:** CODTECH IT SOLUTIONS  
-
 **ID:** CT6WDS202
-
 **Domain:** Data Analytics  
-
 **Duration:** June to July 2024  
-
 **Mentor:** MOHAMMED MUZAMMIL AHMED
 
 
